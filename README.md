@@ -12,4 +12,4 @@ Yo, fellow devs! Welcome to my Let's Learn Dart Repo! 🚀 I'm on a mission to c
 ## 💥 Quick Start
 
 1. **Get Darted**: Install Dart by following the [official guide](https://dart.dev/get-dart).
-2. **Clone Zone**: `git clone https://github.com/ThakurVibha/dart-dynamo
+2. **Clone Zone**: `git clone https://github.com/ThakurVibha/Lets-Learn-Dart
