@@ -1,6 +1,6 @@
-# 🎯 Dart Dynamo Repo
+# 🎯 Let's Learn Dart
 
-Yo, fellow devs! Welcome to my Dart Dynamo repo! 🚀 I'm on a mission to conquer Dart and level up my coding game. Join me in this coding odyssey where I'm dropping code like it's hot and pushing commits like a champ. Let's dive in and become Dart jedis! ⚡
+Yo, fellow devs! Welcome to my Let's Learn Dart Repo! 🚀 I'm on a mission to conquer Dart and level up my coding game. Join me in this coding odyssey where I'm dropping code like it's hot and pushing commits like a champ. Let's dive in and become Dart jedis! ⚡
 
 ## 📚 What's Poppin'?
 
@@ -12,4 +12,4 @@ Yo, fellow devs! Welcome to my Dart Dynamo repo! 🚀 I'm on a mission to conque
 ## 💥 Quick Start
 
 1. **Get Darted**: Install Dart by following the [official guide](https://dart.dev/get-dart).
-2. **Clone Zone**: `git clone https://github.com/your-username/dart-dynamo
+2. **Clone Zone**: `git clone https://github.com/ThakurVibha/dart-dynamo
